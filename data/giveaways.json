@@ -1,0 +1,196 @@
+{
+    "13": {
+        "authorID": "125850142581587968",
+        "length": "1d",
+        "remaining": 86320000,
+        "prizes": " nothing",
+        "entries": [
+            "125850142581587968"
+        ],
+        "winners": [],
+        "amount": "2",
+        "ended": false
+    },
+    "16": {
+        "lastDraw": 1584478385824,
+        "authorID": "312735373769965568",
+        "length": "1d",
+        "remaining": 86465000,
+        "prizes": " test",
+        "entries": [
+            "312735373769965568"
+        ],
+        "winners": [
+            "312735373769965568"
+        ],
+        "amount": 1,
+        "ended": true,
+        "msgID": "689577291604295859",
+        "embed": {
+            "title": "Giveaway ended",
+            "type": "rich",
+            "description": "This giveaway ended after 1 day",
+            "timestamp": "2020-03-17T20:53:57.205Z",
+            "color": 6351566,
+            "fields": [
+                {
+                    "name": "**ID**",
+                    "value": "16",
+                    "inline": false
+                },
+                {
+                    "name": "**Prizes:**",
+                    "value": " test",
+                    "inline": false
+                },
+                {
+                    "name": "**Winners:**",
+                    "value": "<@312735373769965568> \n",
+                    "inline": false
+                },
+                {
+                    "name": "**Issue:**",
+                    "value": "The entries weren't enough.",
+                    "inline": false
+                }
+            ],
+            "thumbnail": null,
+            "image": null,
+            "author": {
+                "name": "Xiri's Assistant",
+                "icon_url": null
+            },
+            "footer": null
+        }
+    },
+    "53": {
+        "lastDraw": 1584647782645,
+        "authorID": "595543765540798474",
+        "length": "30s",
+        "remaining": 0,
+        "prizes": " item",
+        "entries": [
+            "595543765540798474"
+        ],
+        "winners": [
+            null
+        ],
+        "amount": "1",
+        "ended": true,
+        "msgID": "690287711109775370",
+        "embed": {
+            "title": "Giveaway ended",
+            "type": "rich",
+            "description": "This giveaway ended after 30 seconds",
+            "timestamp": "2020-03-19T19:56:52.646Z",
+            "color": 8388498,
+            "fields": [
+                {
+                    "name": "**ID**",
+                    "value": "53",
+                    "inline": false
+                },
+                {
+                    "name": "**Prizes:**",
+                    "value": " item",
+                    "inline": false
+                },
+                {
+                    "name": "**Winners:**",
+                    "value": "<@595543765540798474>\n",
+                    "inline": false
+                },
+                {
+                    "name": "**Issue:**",
+                    "value": "The entries weren't enough.",
+                    "inline": false
+                }
+            ],
+            "thumbnail": null,
+            "image": null,
+            "author": {
+                "name": "Xiri's Assistant",
+                "icon_url": null
+            },
+            "footer": null
+        }
+    },
+    "63": {
+        "lastDraw": 1584648084327,
+        "authorID": "312735373769965568",
+        "length": "1h",
+        "remaining": 3291000,
+        "prizes": " test",
+        "entries": [
+            "312735373769965568",
+            "595543765540798474"
+        ],
+        "winners": [
+            "312735373769965568",
+            "595543765540798474"
+        ],
+        "amount": "2",
+        "ended": true,
+        "msgID": "690288796235071973",
+        "embed": {
+            "title": "Giveaway ended",
+            "type": "rich",
+            "description": "This giveaway ended after 1 hour",
+            "timestamp": "2020-03-19T20:01:11.232Z",
+            "color": 5741339,
+            "fields": [
+                {
+                    "name": "**ID**",
+                    "value": "63",
+                    "inline": false
+                },
+                {
+                    "name": "**Prizes:**",
+                    "value": " test",
+                    "inline": false
+                },
+                {
+                    "name": "**Winners:**",
+                    "value": "<@312735373769965568> \n<@595543765540798474> \n",
+                    "inline": false
+                },
+                {
+                    "name": "**Issue:**",
+                    "value": "The entries weren't enough.",
+                    "inline": false
+                }
+            ],
+            "thumbnail": null,
+            "image": null,
+            "author": {
+                "name": "Xiri's Assistant",
+                "icon_url": null
+            },
+            "footer": null
+        }
+    },
+    "65": {
+        "authorID": "312735373769965568",
+        "length": "30s",
+        "remaining": 15000,
+        "prizes": " testing",
+        "entries": [
+            "312735373769965568"
+        ],
+        "winners": [
+            "312735373769965568"
+        ],
+        "amount": "1",
+        "ended": true
+    },
+    "87": {
+        "authorID": "125850142581587968",
+        "length": "1h",
+        "remaining": 3555000,
+        "prizes": " deez nutz",
+        "entries": [],
+        "winners": [],
+        "amount": "1",
+        "ended": true
+    }
+}
